@@ -1,0 +1,15 @@
+D:\Belajar Programming\Backend\C#\ManagementEmployee\bin\Debug\net7.0\ManagementEmployee.exe
+D:\Belajar Programming\Backend\C#\ManagementEmployee\bin\Debug\net7.0\ManagementEmployee.deps.json
+D:\Belajar Programming\Backend\C#\ManagementEmployee\bin\Debug\net7.0\ManagementEmployee.runtimeconfig.json
+D:\Belajar Programming\Backend\C#\ManagementEmployee\bin\Debug\net7.0\ManagementEmployee.dll
+D:\Belajar Programming\Backend\C#\ManagementEmployee\bin\Debug\net7.0\ManagementEmployee.pdb
+D:\Belajar Programming\Backend\C#\ManagementEmployee\obj\Debug\net7.0\ManagementEmployee.csproj.AssemblyReference.cache
+D:\Belajar Programming\Backend\C#\ManagementEmployee\obj\Debug\net7.0\ManagementEmployee.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belajar Programming\Backend\C#\ManagementEmployee\obj\Debug\net7.0\ManagementEmployee.AssemblyInfoInputs.cache
+D:\Belajar Programming\Backend\C#\ManagementEmployee\obj\Debug\net7.0\ManagementEmployee.AssemblyInfo.cs
+D:\Belajar Programming\Backend\C#\ManagementEmployee\obj\Debug\net7.0\ManagementEmployee.csproj.CoreCompileInputs.cache
+D:\Belajar Programming\Backend\C#\ManagementEmployee\obj\Debug\net7.0\ManagementEmployee.dll
+D:\Belajar Programming\Backend\C#\ManagementEmployee\obj\Debug\net7.0\refint\ManagementEmployee.dll
+D:\Belajar Programming\Backend\C#\ManagementEmployee\obj\Debug\net7.0\ManagementEmployee.pdb
+D:\Belajar Programming\Backend\C#\ManagementEmployee\obj\Debug\net7.0\ManagementEmployee.genruntimeconfig.cache
+D:\Belajar Programming\Backend\C#\ManagementEmployee\obj\Debug\net7.0\ref\ManagementEmployee.dll
